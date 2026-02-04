@@ -26,3 +26,18 @@
 /Users/marissabellebindeki/Downloads/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.pdb
 /Users/marissabellebindeki/Downloads/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.genruntimeconfig.cache
 /Users/marissabellebindeki/Downloads/Archive/LegacyShop/obj/Debug/net10.0/ref/LegacyShop.dll
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/bin/Debug/net10.0/LegacyShop
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/bin/Debug/net10.0/LegacyShop.deps.json
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/bin/Debug/net10.0/LegacyShop.runtimeconfig.json
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/bin/Debug/net10.0/LegacyShop.dll
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/bin/Debug/net10.0/LegacyShop.pdb
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.AssemblyInfoInputs.cache
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.AssemblyInfo.cs
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.csproj.CoreCompileInputs.cache
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.sourcelink.json
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.dll
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/refint/LegacyShop.dll
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.pdb
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/LegacyShop.genruntimeconfig.cache
+/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/Debug/net10.0/ref/LegacyShop.dll

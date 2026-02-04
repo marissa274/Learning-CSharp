@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LegacyShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086ba91160f236c02d18478b4f987df2d7442922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c62f446169fd25c8abee5a76ce739d4bd588d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LegacyShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LegacyShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
