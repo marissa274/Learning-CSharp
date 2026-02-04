@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marissabellebindeki/Downloads/Archive/LegacyShop/LegacyShop.csproj",
+      "projectUniqueName": "/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/LegacyShop.csproj",
       "projectName": "LegacyShop",
-      "projectPath": "/Users/marissabellebindeki/Downloads/Archive/LegacyShop/LegacyShop.csproj",
+      "projectPath": "/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/LegacyShop.csproj",
       "packagesPath": "/Users/marissabellebindeki/.nuget/packages/",
-      "outputPath": "/Users/marissabellebindeki/Downloads/Archive/LegacyShop/obj/",
+      "outputPath": "/Users/marissabellebindeki/Desktop/poo 3/Archive/LegacyShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marissabellebindeki/.nuget/NuGet/NuGet.Config"
